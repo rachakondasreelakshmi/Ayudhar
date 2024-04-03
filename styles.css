@@ -1,0 +1,19 @@
+.box{
+    border:solid 10px;
+    border-color: aqua;
+    height: 800px;
+}
+.heading{
+    text-align:center;
+    color:aquamarine;
+}
+.profile{
+    height: 200px;
+    width: 200px;
+    margin-left: 675px;
+}
+.a{
+    margin-left: 650px;
+    width: 300px;
+    height: 200px;
+}
